@@ -1,0 +1,112 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[崔万照~等(2008)]{Meta_CN}
+\textsc{崔万照, 马伟, 邱乐徳,等}.
+\newblock
+\newblock {电磁超介质及其应用}[M].
+\newblock 北京: 国防工业出版社, 2008.
+
+\bibitem[Chen and Chan(2007)]{chen2007act}
+\textsc{Chen H, Chan C~T}.
+\newblock {Acoustic cloaking in three dimensions using acoustic
+  metamaterials}[J].
+\newblock Applied Physics Letters, 2007, 91:183518.
+
+\bibitem[Kim et al.(2003)]{DPMG}
+\textsc{Kim S, Woo N, Yeom H~Y}, et al.
+\newblock
+\newblock Design and {I}mplementation of {D}ynamic {P}rocess {M}anagement for
+  {G}rid-enabled {MPICH}[C]//the 10th European PVM/MPI Users' Group Conference.
+\newblock Venice, Italy: [s.n.] , 2003.
+
+\bibitem[Joannopoulos et al.(2008)]{JohnD}
+\textsc{Joannopoulos J~D, Johnson S~G, Winn J~N}.
+\newblock
+\newblock
+\newblock {Photonic Crystals: Molding the Flow of Light}[M].[S.l.]: Princeton
+  University Press, 2008.
+
+\bibitem[猪八戒(2005)]{zhubajie}
+\textsc{猪八戒}.
+\newblock 论流体食物的持久保存[D].
+\newblock 北京: 广寒宫大学, 2005.
+
+\bibitem[{IEEE Std 1363-2000}(2000)]{IEEE-1363}
+\textsc{{IEEE Std 1363-2000}}.
+\newblock
+\newblock {IEEE} Standard Specifications for Public-Key Cryptography[M].
+\newblock New York: IEEE, 2000.
+
+\bibitem[Chen et al.(2007)]{chen2007ewi}
+\textsc{Chen H, Wu B~I, Zhang B}, et al.
+\newblock {Electromagnetic Wave Interactions with a Metamaterial Cloak}[J].
+\newblock Physical Review Letters, 2007, 99(6):63903.
+
+\bibitem[Kocher et al.(1999)]{kocher99}
+\textsc{Kocher C, Jaffe J, Jun B}.
+\newblock Differential Power Analysis[C]//.
+\newblock \textsc{Wiener M}.
+\newblock
+\newblock 1999.
+\newblock Advances in Cryptology ({CRYPTO}~'99).[S.l.]: Springer-Verlag,
+  Lecture Notes in Computer Science, vol. 1666.
+
+\bibitem[王重阳~等(2006)]{cnproceed}
+\textsc{王重阳, 黄药师, 欧阳峰,等}.
+\newblock
+\newblock 武林高手从入门到精通[C]//第~$N$~次华山论剑.
+\newblock 西安, 中国: 中国古籍出版社, 2006.
+
+\bibitem[Jeyakumar(2004)]{metamori2004}
+\textsc{Jeyakumar A~R}.
+\newblock Metamori: A library for Incremental File Checkpointing[D].
+\newblock Blacksburg: Virgina Tech, 2004.
+
+\bibitem[沙和尚(2005)]{shaheshang}
+\textsc{沙和尚}.
+\newblock 论流沙河的综合治理[D].
+\newblock 北京: 清华大学, 2005.
+
+\bibitem[Zadok(2001)]{FistSystem01}
+\textsc{Zadok E}.
+\newblock {FiST: A System for Stackable File System Code Generation}[D].
+\newblock USA: Computer Science Department, Columbia University, 2001.
+
+\bibitem[白云芬(2008)]{bai2008}
+\textsc{白云芬}.
+\newblock {信用风险传染模型和信用衍生品的定价}[D].
+\newblock 上海: 上海交通大学, 2008.
+
+\bibitem[Woo et al.(1995)]{NPB2}
+\textsc{Woo A, Bailey D, Yarrow M}, et al.
+\newblock
+\newblock The {NAS} Parallel Benchmarks 2.0[R].[S.l.]: The Pennsylvania State
+  University CiteSeer Archives, 1995.
+\newblock \url{http://www.nasa.org/}.
+
+\bibitem[萧钰(2001)]{xiaoyu2001}
+\textsc{萧钰}.
+\newblock
+\newblock 出版业信息化迈人快车道[EB/OL].(2001-12-19)[2002-04-15].
+\newblock \url{http://www.creader.com/news/20011219/200112190019.html}.
+
+\bibitem[Christine(1998)]{CHRISTINE1998}
+\textsc{Christine M}.
+\newblock Plant physiology: plant biology in the Genome Era[J/OL].
+\newblock Science, 1998, 281:331--332[1998-09-23].
+\newblock \url{http://www.sciencemag.org/cgi/collection/anatmorp}.
+
+\bibitem[{R Core Team}(2012)]{RManual}
+\textsc{{R Core Team}}.
+\newblock
+\newblock R: A Language and Environment for Statistical Computing[M].
+\newblock Vienna, Austria: [s.n.] , 2012.
+\newblock \url{http://www.R-project.org/}.
+\newblock {ISBN} 3-900051-07-0.
+
+\end{thebibliography}

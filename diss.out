@@ -1,0 +1,27 @@
+\BOOKMARK [0][-]{chapter.1}{第一章  这是什么}{}% 1
+\BOOKMARK [1][-]{section.1.1}{1.1 模板的来历}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{1.2 模板说明}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 模板特性}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 系统要求}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 模板文件布局}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.4}{1.2.4 如何使用模板}{section.1.2}% 7
+\BOOKMARK [1][-]{section.1.3}{1.3 从 CJK–LaTeX转向 X0.5ex0.5ex"018E0.5exTeX}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.4}{1.4 模板更新说明}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{第二章  一些 LaTeX排版的例子}{}% 10
+\BOOKMARK [1][-]{section.2.1}{2.1 数学排版的例子}{chapter.2}% 11
+\BOOKMARK [2][-]{subsection.2.1.1}{2.1.1 公式排版}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.2}{2.1.2 定理环境}{section.2.1}% 13
+\BOOKMARK [1][-]{section.2.2}{2.2 向文档中插入图像}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.2.1}{2.2.1 支持的图片格式}{section.2.2}% 15
+\BOOKMARK [2][-]{subsection.2.2.2}{2.2.2 长标题的换行}{section.2.2}% 16
+\BOOKMARK [1][-]{section.2.3}{2.3 表格的例子}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.4}{2.4 参考文献管理}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.4.1}{2.4.1 将参考文献的内容与表现分离}{section.2.4}% 19
+\BOOKMARK [2][-]{subsection.2.4.2}{2.4.2 在正文中引用参考文献}{section.2.4}% 20
+\BOOKMARK [2][-]{subsection.2.4.3}{2.4.3 参考文献管理器}{section.2.4}% 21
+\BOOKMARK [1][-]{section.2.5}{2.5 用listings插入源代码}{chapter.2}% 22
+\BOOKMARK [0][-]{chapter.3}{第三章  已知问题}{}% 23
+\BOOKMARK [0][-]{chapter*.15}{全文总结}{}% 24
+\BOOKMARK [0][-]{appendix.A}{附录 A  模板更新记录}{}% 25
+\BOOKMARK [0][-]{appendix.B}{附录 B  Maxwell Equations}{}% 26
+\BOOKMARK [0][-]{appendix*.16}{致  谢}{}% 27
